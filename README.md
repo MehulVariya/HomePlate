@@ -29,7 +29,7 @@ HomePlate  is a Firebase-authenticated application meticulously crafted using cl
 
 ## LICENSE
   
-  - Copyright (c) 2024 The Happy Valentine Day Wishes Author - [MIT License]
+  - Copyright (c) 2024 The HomePlate Author - [MIT License]
  
  [Fontawesome]: https://play.google.com/store/apps/details?id=com.ninesquaretech.valentineday
  [MIT License]: https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/LICENSE.txt
