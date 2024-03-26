@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDtqpcsm7RVD5oFuvPrsE7oZ0mgpGClPy8',
+    apiKey: '',
     appId: '1:611694559944:web:9649dd990739efc02cdbfd',
     messagingSenderId: '611694559944',
     projectId: 'quick-foodie-2abd5',
@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDKePQbZFcZQ_V10mo3CS5BOubijkayXdI',
+    apiKey: '',
     appId: '1:611694559944:android:9ab656d5ceed50152cdbfd',
     messagingSenderId: '611694559944',
     projectId: 'quick-foodie-2abd5',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAu-Jmjqcfa2M_CKYkmcEmQx5mg_4b3SMU',
+    apiKey: '',
     appId: '1:611694559944:ios:1a606a280e99564a2cdbfd',
     messagingSenderId: '611694559944',
     projectId: 'quick-foodie-2abd5',
@@ -74,7 +74,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAu-Jmjqcfa2M_CKYkmcEmQx5mg_4b3SMU',
+    apiKey: '',
     appId: '1:611694559944:ios:d807050bd81aa6c72cdbfd',
     messagingSenderId: '611694559944',
     projectId: 'quick-foodie-2abd5',
