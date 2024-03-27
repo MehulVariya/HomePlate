@@ -16,6 +16,14 @@ HomePlate  is a Firebase-authenticated application meticulously crafted using cl
 - __Delivery Details :__ Provides estimated delivery times to the user's specified home address in the food section.
 
 ## 🤩 Designs:
+<div style = ""> 
+<img src="https://github.com/MehulVariya/HomePlate/blob/main/images/1.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/HomePlate/blob/main/images/2.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/HomePlate/blob/main/images/3.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/HomePlate/blob/main/images/4.jpg" width="32%"/>
+<img src="https://github.com/MehulVariya/HomePlate/blob/main/images/5.jpg" width="32%"/>
+</div>
+
 
 
 ## 📱 Technologies / Tools used for building this app includes:
